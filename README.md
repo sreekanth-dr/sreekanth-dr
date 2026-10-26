@@ -16,5 +16,5 @@
 
 ## 📫 Connect
 
-* LinkedIn: https://www.linkedin.com/in/sreekanthrauth/
-* GitHub: https://github.com/sreekanthrauth
+* LinkedIn: https://www.linkedin.com/in/sreekanthdr/
+* GitHub: https://github.com/sreekanthdr
